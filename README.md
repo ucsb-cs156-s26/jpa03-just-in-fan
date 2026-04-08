@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-just-in-fan
 
 Running at: <https://jpa03-just-in-fan.dokku-02.cs.ucsb.edu>
 
